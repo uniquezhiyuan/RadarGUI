@@ -1,0 +1,8 @@
+{
+"installation_path":"c:/data/gui/",
+"data_path":"c:/data/gui/data/",
+"cache_path":"c:/data/gui/temp/",
+"animation_path":"c:/data/gui/temp/animation/",
+"ppi_ref_path":"c:/data/gui/temp/ppi_ref/",
+"rhi_ref_path":"c:/data/gui/temp/rhi_ref/"
+}
