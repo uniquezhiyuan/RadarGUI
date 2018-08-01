@@ -255,7 +255,7 @@ class Ui_mainWindow(object):
         self.formLayout_5.setWidget(8, QtWidgets.QFormLayout.FieldRole, self.spe_step)
         self.label_40 = QtWidgets.QLabel(self.formLayoutWidget_5)
         font = QtGui.QFont()
-        font.setPointSize(12)
+        font.setPointSize(12) 
         self.label_40.setFont(font)
         self.label_40.setObjectName("label_40")
         self.formLayout_5.setWidget(9, QtWidgets.QFormLayout.LabelRole, self.label_40)
